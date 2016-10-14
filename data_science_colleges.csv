@@ -401,7 +401,8 @@ Virginia Polytechnic Institute and State University,Computational Modeling and D
 Statistics.com,Analytics for Data Science,C,T,F,US,VA,Arlington,,http://www.statistics.com/analytics-for-data-science/
 Bellevue College,Healthcare Data Analyst Certificate,C,T,F,US,WA,Bellevue,Bellevue College Continuing Education,http://www.bellevuecollege.edu/ce/healthcare-classes/healthcare-data-analyst-certificate/
 City University of Seattle,Master of Science in Computer Systems with Concentration in Big Data Management,M,F,T,US,WA,Seattle,Technology Institute,http://www.cityu.edu/programs/ti/ms_computer_systems.aspx
-Seattle University,Graduate Certificate in Business Analytics,C,T,F,US,WA,Seattle,Albers School of Business and Economics,http://www.seattleu.edu/albers/graduate/certificates/analytics/
+Seattle University,Master of Science in Business Analytics,M,F,T,US,WA,Seattle,Albers School of Business and Economics,https://www.seattleu.edu/albers/msba/
+Seattle University,Graduate Certificate in Business Analytics,C,T,T,US,WA,Seattle,Albers School of Business and Economics,https://www.seattleu.edu/albers/graduate/certificates/business-analytics/
 University of Washington-Seattle Campus,M.S. in Data Science,M,F,T,US,WA,Seattle,Interdisciplinary,http://datasciencemasters.uw.edu/
 University of Washington-Seattle Campus,Certificate in Data Science,C,F,T,US,WA,Seattle,UW Department of Computer Science & Engineering,http://escience.washington.edu/content/certificate-data-science
 University of Washington-Tacoma Campus,Big Data,D,F,T,US,WA,Tacoma,Interdisciplinary,http://escience.washington.edu/education-IGERT
@@ -415,12 +416,12 @@ University of Wisconsin-Madison,Master of Science in Statistics - Data Science,M
 University of Wisconsin-Milwaukee,Online Graduate Certificate in Business Analytics,C,F,F,US,WI,Milwaukee,The Lubar School of Business,http://www4.uwm.edu/business/programs/certificates/business-analytics.cfm
 West Virginia University,Master of Professional Studies in Statistical and Data Sciences,M,F,T,US,WV,Morgantown,Department of Statistics,http://www.stat.wvu.edu/Programs/mpsstat.html
 Ukrainian Catholic Univeristy,Computer Science with specialization in Data Science,M,F,T,UA,,Lviv,Applied Science,http://csds.ucu.edu.ua/
-Sabancı University,Data Science,M,F,T,TR,,,Engineering,http://da.sabanciuniv.edu/en
+Sabanc�� University,Data Science,M,F,T,TR,,,Engineering,http://da.sabanciuniv.edu/en
 National University of Singapore,Business Analytics,M,F,T,SG,,,,http://msba.nus.edu/home
 Dalarna University,Business Intelligence,M,F,T,SE,,,,http://www.du.se/en/bi
 Blekinge Institute of Technology,Data Science Engineering,M,F,T,SE,Blekinge,Karlskrona,Computer Science and Engineering,https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/
 Kth Royal Institute Of Technology,Machine Learning,M,F,T,SE,,,,http://www.kth.se/en/studies/programmes/master/programmes/it/machinelearning
-Linköping University,Statistics And Data Mining,M,F,T,SE,,,,http://www.liu.se/utbildning/pabyggnad/F7MSM?l=en
+Link̦ping University,Statistics And Data Mining,M,F,T,SE,,,,http://www.liu.se/utbildning/pabyggnad/F7MSM?l=en
 Universidade Nova de Lisboa,Information Management,M,F,T,PT,,,Statistics And Information Management,http://www.isegi.unl.pt/MGI/Especializacao/Gestao-Sistemas-Tecnologias-Informacao/Detalhe-do-Curso/plano-de-estudos.asp
 University of Otago,Business Data Science,M,F,T,NZ,,,Business,http://www.otago.ac.nz/business/study/postgraduate/otago052118.html
 Massey University,Data Science,B,F,T,NZ,,Auckland,,http://www.massey.ac.nz/massey/learning/programme-course-paper/programme.cfm?prog_id=92411&major_code=2913
@@ -503,10 +504,10 @@ EISTI,Business Analytics,M,F,T,FR,,,,http://www.eisti.fr/en/master-business-anal
 ENSAE Paris Tech,Data Science Specialisation,B,F,T,FR,,,,http://www.ensae.fr/formations-navhorizontale-172/statisticien-conomiste-navhorizontale-48/3me-anne-voies-de-spcialisation-formationsdiplome-96/data-science-cours-3a.html
 Telecom Paris Tech,Big Data,M,F,T,FR,,,,http://www.telecom-paristech.fr/formation-continue/masteres-specialises/big-data.html
 Telecom Sudparis,Automatic Data Processing,M,F,T,FR,,,,http://www.telecom-sudparis.eu/msc?idm=25
-Université Pierre Et Marie Curie,Artificial Intelligence And Decision Specialization,M,F,T,FR,,,,http://www.upmc.fr/en/education/diplomas/sciences_and_technologies/masters/master_of_computer_science/artificial_intelligence_and_decision_specialization_m2.html
+Universit̩ Pierre Et Marie Curie,Artificial Intelligence And Decision Specialization,M,F,T,FR,,,,http://www.upmc.fr/en/education/diplomas/sciences_and_technologies/masters/master_of_computer_science/artificial_intelligence_and_decision_specialization_m2.html
 Aalto University,Machine Learning And Data Mining,M,F,T,FI,,,,http://www.aalto.fi/en/studies/education/programme/machine_learning_data_mining_master/
 University Of Helsinki,Algorithms And Machine Learning,M,F,T,FI,,,,http://www.cs.helsinki.fi/en/prospective/algorithms-and-machine-learning
-Université De Nantes,Data Mining And Knowledge Management,M,F,T,EU,,,,http://www.em-dmkm.eu/
+Universit̩ De Nantes,Data Mining And Knowledge Management,M,F,T,EU,,,,http://www.em-dmkm.eu/
 Barcelona School of Management,Management - Business Analytics,M,F,T,ES,,,,http://www.barcelonaschoolofmanagement.upf.edu/master-of-science-in-management-specialization-in-business-analytics
 Instituto de Empresa,Business Analytics and Big Data,M,F,T,ES,,,,http://mbd.ie.edu/
 Universidad Rey Juan Carlos,Data Science,M,F,T,ES,,Madrid,,http://www.masterdatascience.es/
@@ -519,10 +520,10 @@ Aarhus University,Industrial Phd In Big Data Analysis,D,F,T,DK,,,,http://icoa.au
 Aarhus University,Business Intelligence,M,F,T,DK,,,,http://kandidat.au.dk/en/economics-and-business-administration-business-intelligence/
 Technical University of Denmark,Data Science,M,F,T,DK,,,Department of Applied Mathematics and Computer Science,http://www.compute.dtu.dk/english/education/Data-Science-Big-Data
 Otto Von Guericke University Magdeburg,Data And Knowledge Engineering,M,F,T,DE,,,,http://www.uni-magdeburg.de/unimagdeburg/en/Education/Study+Guide/Study+Programmes+with+English+as+Language+of+Instruction/Data+and+Knowledge+Engineering.html
-Universität Mannheim,Mannheim Master in Data Science (MMDS),M,F,T,DE,,Mannheim,,http://www.wim.uni-mannheim.de/en/the-school/degree-programs/msc-in-data-science/
+Universit�_t Mannheim,Mannheim Master in Data Science (MMDS),M,F,T,DE,,Mannheim,,http://www.wim.uni-mannheim.de/en/the-school/degree-programs/msc-in-data-science/
 TU Dortmund,Data Analysis and Management,B,F,T,DE,,,Statistics,http://www.statistik.tu-dortmund.de/701.html
 TU Dortmund,Data Science,M,F,T,DE,,,Statistics,http://www.statistik.tu-dortmund.de/703.html
-Universität Konstanz,Information Engineering,M,F,T,DE,,,,http://www.informatik.uni-konstanz.de/en/interestedparties/master/
+Universit�_t Konstanz,Information Engineering,M,F,T,DE,,,,http://www.informatik.uni-konstanz.de/en/interestedparties/master/
 Queen's University,Management Analytics,M,F,T,CA,,,Business,http://business.queensu.ca/grad_studies/mma/
 Simon Fraser University,Big Data,M,F,T,CA,,Burnaby,School of Computing Science,http://www.sfu.ca/computing/prospective-students/graduate-students/academic-programs/bigdata.html
 University Of Alberta,Statistical Machine Learning,M,F,T,CA,,,,https://www.cs.ualberta.ca/graduate-students/msc-program-requirements/statistical-machine-learning
